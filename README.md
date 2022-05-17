@@ -5,4 +5,5 @@
 直接将文件 `KRTCTokenAPIv1.go` 下载到本地即可。
 
 ## 使用
+go run KRTCTokenAPIv1.go
 
